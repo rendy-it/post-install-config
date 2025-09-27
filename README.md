@@ -134,8 +134,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2> << Setup 3: Configure Departments  >> </h2>
 <p>
-<img width="1220" height="716" alt="Step 3" src="https://github.com/user-attachments/assets/c946952a-21b7-45cf-936b-d90285435273" />
-
+<img width="966" height="382" alt="Step 3" src="https://github.com/user-attachments/assets/df440bf5-544d-4634-8f1e-51e0f3924bb1" />
 
 </p>
 <p>
@@ -149,13 +148,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="971" height="564" alt="Step 3a" src="https://github.com/user-attachments/assets/d8ed245c-c01e-41c1-911e-998393b3c7fb" />
-
+<img width="962" height="1168" alt="Step 3a" src="https://github.com/user-attachments/assets/2b44c302-cb77-4b8a-bf5f-f88534a7085a" />
 
 </p>
 <p>
   
-- Then click on "Turn Windows features on or off".
+- Next, input the name “SysAdmins” then select “Create Dept”.
 
 
 </p>
