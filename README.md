@@ -160,19 +160,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="420" height="718" alt="Step 3b" src="https://github.com/user-attachments/assets/f95537f5-e3d0-4a10-8010-e31eee7ea15e" />
-
-
-
+<img width="963" height="435" alt="Step 3b" src="https://github.com/user-attachments/assets/fd33de3f-89ef-4065-94c5-d77891667511" />
 
 
 </p>
 <p>
   
-- Inside IIS (Internet Information Services), you want to expand “World Wide Web Services”.
--	Then expand “Application Development Features”.
-- Then check the “CGI” folder and click Ok.
-
+- Now you have created your first Department in osTicket. 
 
 
 </p>
