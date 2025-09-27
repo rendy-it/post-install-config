@@ -17,42 +17,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10 Pro </b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Post-Install Setup</h2>
 
-•	osTicket: [Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+-	Setup 1: Admin Panel & the Agent Panel
+-	Setup 2: Configure Agent Roles
+-	Setup 3: Configure Departments
+-	Setup 4: Configure Teams
+-	Setup 5: Allow anyone to create tickets.
+-	Setup 6: Configure Agents (Workers)
+-	Setup 7: Configure Users (Customers)
+-	Setup 8: Configure SLA (Service Level Agreements)
+-	Setup 9: Configure Help Topics
 
-<h2>Steps</h2>
 
--	Step 1: Using Microsoft Azure Connect to a Windows 10 VM using RDP.
--	Step 2: Download and extract the osTicket “Installation Files” zip file.
--	Step 3: Install all of the osTicket requirement files. 
--	Step 4: Install osTicket.
+<h2>Configuration Steps</h2>
 
-
-<h2>Installation Steps</h2>
-
-<h2> << Step 1: Using Microsoft Azure Connect to a Windows 10 VM using RDP >> </h2>
+<h2> << Setup 1: Admin Panel & the Agent Panel >> </h2>
 <p>
-<img width="1351" height="394" alt="Step 1" src="https://github.com/user-attachments/assets/feb3a155-5afd-4a9e-8108-e38824cf5332" />
+<img width="1155" height="827" alt="Step 0" src="https://github.com/user-attachments/assets/8e2e4a3f-f363-488e-82e1-2cba86fd1e77" />
 
 
 </p>
 <p>
   
-- On the Virtual Machines page of your Azure Resource Group, make sure that both the Windows and Linux virtual machines have a status of “Running”.
+- Log into your Windows-VM, then log in osTicket. 
 
 </p>
 <br />
 
-<img width="1126" height="391" alt="Step 1a" src="https://github.com/user-attachments/assets/913906cc-6e19-466f-a7dd-827bc8acfe8c" />
+<img width="1154" height="566" alt="Step 0a" src="https://github.com/user-attachments/assets/9b9c96c4-3037-417d-af60-6b927c17e10b" />
 
 
 <p>
   
-- Click on your Windows VM.
-- On the page of your Windows VM:		
-  - Copy the “Public IP address” number.
-
+- Which will direct you to the Agent Panel.
   
 </p>
 <br />
