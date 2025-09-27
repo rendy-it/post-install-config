@@ -85,7 +85,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2> << Setup 2: Configure Agent Roles >> </h2>
 
 <p>
-<img width="962" height="436" alt="Step 2" src="https://github.com/user-attachments/assets/a07fee57-63b0-46dd-8972-24b0f73d4256" />
+<img width="963" height="452" alt="Step 2" src="https://github.com/user-attachments/assets/b3b9875d-7a4f-4669-9be5-969458021d5d" />
+
 
 </p>
 <p>
@@ -120,7 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-<img width="963" height="495" alt="Step 2c" src="https://github.com/user-attachments/assets/ce0235d0-db33-4bca-b145-f5810cdf6da9" />
+<img width="963" height="501" alt="Step 2c" src="https://github.com/user-attachments/assets/1ef5f87c-3b52-478d-8da7-a20c80f9592b" />
 
 
 <p>
@@ -131,7 +132,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-<h2> << Step 3: Install all of the osTicket Requirement Files >> </h2>
+<h2> << Setup 3: Configure Departments  >> </h2>
 <p>
 <img width="1220" height="716" alt="Step 3" src="https://github.com/user-attachments/assets/c946952a-21b7-45cf-936b-d90285435273" />
 
@@ -139,9 +140,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Enable IIS (Internet Information Services) in Windows.
-  - Go to "Control Panel". 
-  - Then click on “Uninstall Program” under Programs.
+- We are going to create a department in osTicket.
+- On the Admin Panel page, go to the "Agents" tab. 
+- Select “Departments” then select “Add New Department”.
 
 
 </p>
