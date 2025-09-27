@@ -34,7 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2> << Setup 1: Admin Panel & the Agent Panel >> </h2>
 <p>
-<img width="1155" height="827" alt="Step 0" src="https://github.com/user-attachments/assets/8e2e4a3f-f363-488e-82e1-2cba86fd1e77" />
+<img width="1155" height="827" alt="Step 0" src="https://github.com/user-attachments/assets/42848d88-a428-4325-900b-a91e6f937809" />
+
 
 
 </p>
@@ -44,59 +45,91 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
-
-<img width="1154" height="566" alt="Step 0a" src="https://github.com/user-attachments/assets/9b9c96c4-3037-417d-af60-6b927c17e10b" />
+<p>
+<img width="1154" height="566" alt="Step 0a" src="https://github.com/user-attachments/assets/84de02e9-1491-4983-b714-66cb1548a990" />
 
 
 <p>
   
 - Which will direct you to the Agent Panel.
+- The Agent Panel is where you the worker is working the tickets.
+
   
 </p>
 <br />
-
-<img width="338" height="210" alt="Step 1b" src="https://github.com/user-attachments/assets/96cac9e1-0bda-435e-a54e-3011fb98f997" /> <img width="88" height="210" alt="Right Pointing Arrow for Step 1b" src="https://github.com/user-attachments/assets/af5e210f-1d60-45b5-92f7-09e49326b75a" /> <img width="343" height="235" alt="Step 1b1" src="https://github.com/user-attachments/assets/71fbeb04-ba76-4150-bd18-f524641089ed" />
-
+<p>
+<img width="963" height="407" alt="Step 1b" src="https://github.com/user-attachments/assets/93446a31-9cc7-430a-9f31-bf92e3cf258c" />
 
 
 </p>
 <p>
   
-- Open the Remote Desktop App:
-  - Paste the Windows VM ip address that you copied. Then click on Connect.
-  - Then, enter the Windows VM username and password that you created and click on Ok to login.
+- Next, Click on the Admin Panel at the top right.
 
 
 </p>
 <br />
-
-<h2> << Step 2: Download and extract the osTicket “Installation Files” zip file >> </h2>
-
 <p>
-<img width="1303" height="352" alt="Step 2" src="https://github.com/user-attachments/assets/6af6d5ec-fa7b-4646-8748-36e313e7e6cd" />
+<img width="737" height="884" alt="Step 1b1" src="https://github.com/user-attachments/assets/19d6f19e-d9ae-4f32-8f7b-26932064e63e" />
 
 
 </p>
 <p>
   
-- Once inside the Windows-VM.
-  - Open up your web browser.
-  - Then download the osTicket: [Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
-
+- The Admin Panel is where you configure settings on the backend for osTicket.
 
 
 </p>
 <br />
 
-<img width="1200" height="985" alt="Step 2a" src="https://github.com/user-attachments/assets/58432d75-9f43-49ba-a079-cd0ed92f02d6" />
+<h2> << Setup 2: Configure Agent Roles >> </h2>
+
+<p>
+<img width="962" height="436" alt="Step 2" src="https://github.com/user-attachments/assets/a07fee57-63b0-46dd-8972-24b0f73d4256" />
+
+</p>
+<p>
+  
+- Once on the Admin Panel page, we are now going to create our osTicket role.
+- We are going to create a Supreme Admin Role to give it lots of permissions. This is just an example as this is not normal in the work field.
+- Go to the “Agents” tab. Select “Roles” then select “Add New Role”.
+
+
+
+
+</p>
+<br />
+<p>
+<img width="960" height="624" alt="Step 2a" src="https://github.com/user-attachments/assets/4c95b7a0-4fb0-40c4-af4e-21a47cba6dfc" />
 
 
 <p>
   
-- Once downloaded, Click on “Open File” and extract the zip onto your desktop for easy access.
+- Next, input the name “Supreme Admin” then select “Permissions”.
    
 </p>
 <br />
+<p>
+<img width="964" height="761" alt="Step 2b" src="https://github.com/user-attachments/assets/add345fe-a9ba-495a-bd42-bc30f0524ae3" />
+
+
+<p>
+  
+- Next, be sure to check every single permission for the “Tickets”, “Tasks” and “Knowledgebase” tabs then select “Add Role”.
+   
+</p>
+<br />
+<p>
+<img width="963" height="495" alt="Step 2c" src="https://github.com/user-attachments/assets/ce0235d0-db33-4bca-b145-f5810cdf6da9" />
+
+
+<p>
+  
+- Now you have created your first Role as an Admin in osTicket.
+   
+</p>
+<br />
+
 
 <h2> << Step 3: Install all of the osTicket Requirement Files >> </h2>
 <p>
