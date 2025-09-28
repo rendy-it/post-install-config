@@ -212,3 +212,92 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
+<h2> << Setup 5: Allow anyone to set up tickets >> </h2>
+<p>
+<img width="962" height="737" alt="Step 5" src="https://github.com/user-attachments/assets/b94a56d6-4b45-4d3d-bd5b-7b38f9f1419f" />
+
+
+</p>
+<p>
+  
+- We are going to turn off the setting that requires registration and login for a user to create tickets.
+- On the Admin Panel page, go to the "Settings" tab.
+- Select “Users” and make sure that the “Require registration and log in to create tickets” box is checked off then select “Save Changes”.
+
+
+</p>
+<br />
+
+<h2> << Setup 6: Configure Agents (Workers) >> </h2>
+<p>
+<img width="962" height="404" alt="Step 6" src="https://github.com/user-attachments/assets/599b8dfe-b415-46e7-aae9-3d8502fec79d" />
+
+
+</p>
+<p>
+  
+- We are going create 2 Agents. 1st one will have an Admin Role and the 2nd will have a Support role.
+- On the Admin Panel page, go to the "Agents" tab.
+- Select the secondary “Agents” tab and select “Add New Agent”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="963" height="495" alt="Step 6a" src="https://github.com/user-attachments/assets/44f25ed2-88d9-46af-ad29-52eb32dbb57d" />
+
+
+</p>
+<p>
+  
+- Input a Name, Email and Username. Then select “Set Password”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="651" height="393" alt="Step 6a1" src="https://github.com/user-attachments/assets/9f4ffd64-58d5-43d3-a443-0e42e7ab0729" />
+
+
+</p>
+<p>
+  
+- Next, input your password and make sure to uncheck “Send the agent a password reset email” and “Require password change at next login” then select “Set”.
+
+
+
+</p>
+<br />
+<p>
+<img width="962" height="628" alt="Step 6a2" src="https://github.com/user-attachments/assets/7417b51d-7602-4cdf-9e35-08790f8f4ad0" />
+
+
+</p>
+<p>
+  
+- Next, select the “Access” tab. For “Primary Department” we are going to select “SysAdmins” as the Department and select “Supreme Admin” as the Role.
+- Next, for “Extended Access” we are going to select “Support” as the Department, then click “Add” and select “Supreme Admin” as the Role. 
+
+
+
+</p>
+<br />
+
+<p>
+<img width="962" height="628" alt="Step 6a2" src="https://github.com/user-attachments/assets/7417b51d-7602-4cdf-9e35-08790f8f4ad0" />
+
+
+</p>
+<p>
+  
+- Next, select the “Teams” tab. For “Assigned Teams” we are going to select “Online Banking” as the Team then click “Add” then select “Create”.
+
+
+
+</p>
+<br />
