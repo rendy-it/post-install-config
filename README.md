@@ -387,4 +387,71 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<h2> << Setup 7: Configure Users (Customers) >> </h2>
+<p>
+<img width="960" height="397" alt="Step 7" src="https://github.com/user-attachments/assets/0a4420ed-d3d6-4b6b-9447-3a10a81eedfa" />
 
+
+
+</p>
+<p>
+  
+- We are going create 2 Users:
+  - On the Admin Panel page, go to the top right and select "Agent Panel". 
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="407" alt="Step 7a" src="https://github.com/user-attachments/assets/e012118d-6b26-422c-adf6-00aa594a1b38" />
+
+
+</p>
+<p>
+  
+- Then, select the “Users” tab and select “Add User”.
+
+
+</p>
+<br />
+
+<p>
+<img width="648" height="395" alt="Step 7a1" src="https://github.com/user-attachments/assets/d60909a6-5646-48f3-a852-db2164aef169" />
+
+
+</p>
+<p>
+  
+- Input an Email and Name. Then select “Add User”.
+
+
+</p>
+<br />
+
+<p>
+<img width="648" height="395" alt="Step 7a2" src="https://github.com/user-attachments/assets/e1fe150c-99dc-4240-abfa-e30acfc80330" />
+
+
+</p>
+<p>
+  
+- Repeat the same steps as above for a second user.
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="461" alt="Step 7a3" src="https://github.com/user-attachments/assets/287b0d0a-e086-46f4-97fc-37e43847c114" />
+
+
+</p>
+<p>
+  
+- Now select the “Users” tab and you will now see the new users that we just created.
+
+
+</p>
+<br />
