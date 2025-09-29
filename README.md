@@ -455,3 +455,83 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
+<h2> << Setup 8: Configure SLA (Service Level Agreements) >> </h2>
+<p>
+<img width="960" height="355" alt="Step 8" src="https://github.com/user-attachments/assets/5fabb360-1fb7-4525-b755-534670db1778" />
+
+
+</p>
+<p>
+  
+- The purpose of the SLA is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+- We are going to create 3 different SLAs.
+  - Head to the Admin Panel in osTicket.
+  - Select “Manage” then select “SLA” and select “Add New SLA Plan”.
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="714" alt="Step 8a" src="https://github.com/user-attachments/assets/72efb808-faf2-42fd-b365-19121dcca9c3" />
+
+
+</p>
+<p>
+  
+- For our first SLA, we are going to name it "SEV-A", with a grace period of “1” Hour and a “24/7” schedule.
+- Then select “Add Plan”.
+- This one will be the most urgent SLA plan of the 3.
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="723" alt="Step 8b" src="https://github.com/user-attachments/assets/40be8a76-d32e-4ae3-b5bf-0733d19c9a17" />
+
+
+</p>
+<p>
+  
+- Next for the 2nd SLA plan.
+- Repeat the previous steps.
+- We are going to name it "SEV-B", with a grace period of “4” Hours and a “24/7” schedule as well. Then select “Add Plan”.
+- This one will be the 2nd most urgent SLA plan of the 3.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="726" alt="Step 8c" src="https://github.com/user-attachments/assets/0982c7f0-4fbe-4a9e-914a-b02c1df0e744" />
+
+
+</p>
+<p>
+  
+- Next for the 3rd SLA plan.
+- Repeat the previous steps.
+- We are going to name it "SEV-C", with a grace period of “8” Hours and a “Monday-Friday from 8 am-5 pm with U.S. Holidays” schedule. Then select “Add Plan”.
+- This one will be the 3rd most urgent SLA plan of the 3.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="477" alt="Step 8d" src="https://github.com/user-attachments/assets/5fd02f1c-3d23-4cd6-bf8b-5c2dfc742429" />
+
+
+</p>
+<p>
+  
+- Now back to the SLA page, you will see all 3 of the SLA plans we have just created.
+
+
+</p>
+<br />
+
