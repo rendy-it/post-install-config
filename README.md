@@ -289,20 +289,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="962" height="628" alt="Step 6a2" src="https://github.com/user-attachments/assets/7417b51d-7602-4cdf-9e35-08790f8f4ad0" />
-
-
-</p>
-<p>
-  
-- Next, select the “Teams” tab. For “Assigned Teams” we are going to select “Online Banking” as the Team then click “Add” then select “Create”.
-
-
-
-</p>
-<br />
-
-<p>
 <img width="963" height="478" alt="Step 6a3" src="https://github.com/user-attachments/assets/74268d8c-4825-4599-a88f-361034a98452" />
 
 
@@ -317,7 +303,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="963" height="478" alt="Step 6a3" src="https://github.com/user-attachments/assets/74268d8c-4825-4599-a88f-361034a98452" />
+<img width="961" height="441" alt="Step 6a4" src="https://github.com/user-attachments/assets/600c5e10-1828-49a4-afe9-43d1f129764f" />
+
 
 
 </p>
@@ -325,6 +312,76 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 - Now select the “Agents” under the “Agents” tab and you will now see the new agent that we just created.
 
+
+
+</p>
+<br />
+
+<p>
+<img width="963" height="458" alt="Step 6b" src="https://github.com/user-attachments/assets/c13e81ed-ec96-4bb4-9e4f-f641277ffcdd" />
+
+
+</p>
+<p>
+  
+- Now for the 2nd Agent:
+  - Do the same as before. Select “Add New Agent”.
+
+
+</p>
+<br />
+
+<p>
+<img width="963" height="496" alt="Step 6b1" src="https://github.com/user-attachments/assets/e60f803b-8efd-44e8-9da7-573669b4ced2" />
+
+
+
+</p>
+<p>
+  
+- Input a Name, Email and Username. Then select “Set Password”.
+
+
+</p>
+<br />
+
+<p>
+<img width="649" height="391" alt="Step 6b2" src="https://github.com/user-attachments/assets/9fc48943-c0f5-4d98-9f18-4b9e355607ed" />
+
+
+
+
+</p>
+<p>
+  
+- Next, input your password and make sure to uncheck “Send the agent a password reset email” and “Require password change at next login” then select “Set”.
+
+
+</p>
+<br />
+
+<p>
+<img width="963" height="592" alt="Step 6b3" src="https://github.com/user-attachments/assets/27b7354b-d171-4008-84d5-6aea25255133" />
+
+
+
+</p>
+<p>
+  
+- Next, select the “Access” tab. For “Primary Department” we are going to select “Support” as the Department and select “Expanded Access” as the Role. Then select “Create”.
+
+</p>
+<br />
+
+<p>
+<img width="964" height="461" alt="Step 6b4" src="https://github.com/user-attachments/assets/d20cf556-e05a-45ca-8b99-7a873a4c27a9" />
+
+
+
+</p>
+<p>
+  
+- Now select the “Agents” under the “Agents” tab and you will now see the new agent that we just created.
 
 
 </p>
