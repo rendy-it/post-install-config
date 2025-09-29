@@ -301,3 +301,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
+<p>
+<img width="963" height="478" alt="Step 6a3" src="https://github.com/user-attachments/assets/74268d8c-4825-4599-a88f-361034a98452" />
+
+
+</p>
+<p>
+  
+- Next, select the “Teams” tab. For “Assigned Teams” we are going to select “Online Banking” as the Team then click “Add” then select “Create”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="963" height="478" alt="Step 6a3" src="https://github.com/user-attachments/assets/74268d8c-4825-4599-a88f-361034a98452" />
+
+
+</p>
+<p>
+  
+- Now select the “Agents” under the “Agents” tab and you will now see the new agent that we just created.
+
+
+
+</p>
+<br />
+
+
