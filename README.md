@@ -458,7 +458,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2> << Setup 8: Configure SLA (Service Level Agreements) >> </h2>
 <p>
-<img width="960" height="355" alt="Step 8" src="https://github.com/user-attachments/assets/5fabb360-1fb7-4525-b755-534670db1778" />
+<img width="960" height="358" alt="Step 8" src="https://github.com/user-attachments/assets/feda43e5-2037-4063-bbe0-4c1f7c6593c1" />
 
 
 </p>
