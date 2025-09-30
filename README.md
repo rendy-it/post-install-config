@@ -535,7 +535,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h2> << Setup 9: Configure SLA (Service Level Agreements) >> </h2>
+<h2> << Setup 9: Configure Help Topics >> </h2>
 <p>
 <img width="960" height="491" alt="Step 9" src="https://github.com/user-attachments/assets/e6d90f47-529b-42a1-a09c-7f5873f99519" />
 
