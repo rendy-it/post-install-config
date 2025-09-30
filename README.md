@@ -535,3 +535,116 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<h2> << Setup 9: Configure SLA (Service Level Agreements) >> </h2>
+<p>
+<img width="960" height="491" alt="Step 9" src="https://github.com/user-attachments/assets/e6d90f47-529b-42a1-a09c-7f5873f99519" />
+
+
+</p>
+<p>
+  
+- Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket.
+- Help Topics will also determine what Department the ticket is routed to which will determine which Agents have access to the ticket.
+- Head to the Admin Panel in osTicket.
+- Select “Manage” then “Help Topics” then “Add New Help Topic”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="683" alt="Step 9a" src="https://github.com/user-attachments/assets/fed44f67-7372-4ef9-bce0-6ecfb060c4c1" />
+
+
+</p>
+<p>
+  
+- Create a topic named “Business Critical Outage” and select “Report a Problem” as the Parent Topic it falls under. Then select “Add Topic”.
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="691" alt="Step 9b" src="https://github.com/user-attachments/assets/886d9d20-f046-48e5-94e1-e586d04486e6" />
+
+
+</p>
+<p>
+  
+- Then a topic named “Personal Computer Issues” and select “Report a Problem” as the Parent Topic. Then select “Add Topic”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="681" alt="Step 9c" src="https://github.com/user-attachments/assets/07756722-4c52-4548-afcd-4e872ff7334a" />
+
+
+</p>
+<p>
+  
+- Then a topic named “Equipment Request” and select “General Inquiry” as the Parent Topic. Then select “Add Topic”.
+
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="699" alt="Step 9d" src="https://github.com/user-attachments/assets/5c638e80-c477-468c-a920-f30ec537c6cd" />
+
+
+</p>
+<p>
+  
+- Then a topic named “Password Reset” and select “Report a Problem” as the Parent Topic. Then select “Add Topic”.
+
+
+</p>
+<br />
+
+<p>
+<img width="960" height="690" alt="Step 9e" src="https://github.com/user-attachments/assets/cf3a8c10-68da-4475-93f0-e49e25825b43" />
+
+
+
+</p>
+<p>
+  
+- Then a topic named “Other” and select “General Inquiry” as the Parent Topic. Then select “Add Topic”.
+
+
+</p>
+<br />
+
+<p>
+<img width="965" height="703" alt="Step 9f" src="https://github.com/user-attachments/assets/e9d1ec52-410f-4348-ad18-a74f06a28c3a" />
+
+
+</p>
+<p>
+  
+- Now back to the Helps Topic page, you will see all the Help Topics that we have created.
+
+
+</p>
+<br />
+
+<h2> << Conclusion >> </h2>
+
+<p>
+  
+- Close the Remote Desktop connection.
+- Go Back to your Azure resource group page.
+- Make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
+- Also, make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
+- To conclude, we have successfully configured osTicket inside our Windows Virtual Machine that is being resourced by the Azure cloud infrastructure. 
+
+
+</p>
+<br />
+
